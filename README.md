@@ -49,6 +49,11 @@ Improved CNN model's accuracy and loss
 
 <img src="https://i.ibb.co/kgGr43N/Screen-Shot-2020-05-25-at-23-40-26.png" width="450" height="300">
 
+## Authors
+Haekal Rizky Yulianto  
+Kenzy Dario  
+Vincent Junitio Ungu   
+
 
 
 
